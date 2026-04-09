@@ -1,0 +1,20 @@
+﻿
+.imgBanerBlog {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*background-image: url(http://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg);*/
+    background-size: cover;
+}
+
+.imgFooterBlog {
+    height: 120px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*background-image: url(http://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg);*/
+    background-size: cover;
+}
+
+.entry-content p{
+    text-align: justify;
+}
